@@ -80,4 +80,4 @@ No LCD aparecem a temperatura e a humidade, atualizadas de 2 em 2 segundos. No *
 
 ## Autor
 
-Gustavo Couto — [github.com/guga1337](https://github.com/gugajac)
+Gustavo Couto — [github.com/gugajac](https://github.com/gugajac)

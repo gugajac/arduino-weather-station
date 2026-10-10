@@ -11,7 +11,7 @@ Projeto de hobby que mede a **temperatura** e a **humidade** com um sensor DHT11
 - Ecrã LCD 1602 (16x2), versão paralela de 16 pinos
 - Breadboard
 - Resistência de 1 kΩ ou 2kΩ (contraste do LCD) 
-- Resistência de 220 Ω (luz de fundo do LCD)
+- Resistência de 220 Ω (luz de fundo do LCD);se a luz ficar fraca, usar uma mais baixa (entre 100 Ω e 150 Ω)
 - Fios jumper
 - Cabo USB
 

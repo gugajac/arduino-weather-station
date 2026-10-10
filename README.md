@@ -2,8 +2,7 @@
 
 Projeto de hobby que mede a **temperatura** e a **humidade** com um sensor DHT11 e mostra os valores num ecrã LCD 16x2. Os valores são também enviados pela porta série (USB) no formato `temperatura,humidade`, para poderem ser registados no PC.
 
-<!-- Quando tiveres uma foto da montagem a funcionar, guarda-a em docs/foto.jpg e descomenta a linha abaixo -->
-<!-- ![Montagem a funcionar](docs/foto.jpg) -->
+![Montagem a funcionar](docs/fotomontagem.jpg) 
 
 ## Componentes
 
@@ -11,7 +10,7 @@ Projeto de hobby que mede a **temperatura** e a **humidade** com um sensor DHT11
 - Módulo sensor de temperatura e humidade DHT11 (3 pinos)
 - Ecrã LCD 1602 (16x2), versão paralela de 16 pinos
 - Breadboard
-- Resistência de 1 kΩ (contraste do LCD)
+- Resistência de 1 kΩ ou 2kΩ (contraste do LCD) 
 - Resistência de 220 Ω (luz de fundo do LCD)
 - Fios jumper
 - Cabo USB
@@ -81,4 +80,4 @@ No LCD aparecem a temperatura e a humidade, atualizadas de 2 em 2 segundos. No *
 
 ## Autor
 
-Gustavo Couto — [github.com/guga1337](https://github.com/guga1337)
+Gustavo Couto — [github.com/guga1337](https://github.com/gugajac)
